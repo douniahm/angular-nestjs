@@ -11,7 +11,7 @@ Démonstration
 
 https://user-images.githubusercontent.com/36522492/50552535-be11aa80-0c95-11e9-8ffb-fa6c24aa77a6.PNG
 
- -Ajouter un user:
+ - Ajouter un user:
  
 https://user-images.githubusercontent.com/36522492/50552537-c36ef500-0c95-11e9-8807-ddc9e726a605.PNG
 
