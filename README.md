@@ -12,11 +12,13 @@ Pour le coté serveur on utilise NestJs, on manipule les données en utilisant l
 ## Démonstration
 - Liste des users: 
 
-https://user-images.githubusercontent.com/36522492/50552535-be11aa80-0c95-11e9-8ffb-fa6c24aa77a6.PNG
+![userlist](https://user-images.githubusercontent.com/36522492/50552535-be11aa80-0c95-11e9-8ffb-fa6c24aa77a6.PNG)
+-----
 
  - Ajouter un user:
  
-https://user-images.githubusercontent.com/36522492/50552537-c36ef500-0c95-11e9-8807-ddc9e726a605.PNG
+![useradd](https://user-images.githubusercontent.com/36522492/50552537-c36ef500-0c95-11e9-8807-ddc9e726a605.PNG)
+-----
 
 - L'user ajouté
 
@@ -24,8 +26,7 @@ https://user-images.githubusercontent.com/36522492/50552538-c538b880-0c95-11e9-8
 
 - List des posts:
 
-https://user-images.githubusercontent.com/36522492/50553422-b0b0ec00-0ca6-11e9-8740-0e1e91ac9218.png
-
+![useradded](https://user-images.githubusercontent.com/36522492/50552538-c538b880-0c95-11e9-84fb-e22453007211.PNG)
 
 ----
 ** Dounia Ait Hammi
