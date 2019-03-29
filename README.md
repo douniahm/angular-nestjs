@@ -1,17 +1,15 @@
 # angularNestjs
 
-< GLSID2 > Dounia Ait Hammi < / GLSID2 >
+## Application
+un simple projet qui permet d'insérer et réccupérer les données du serveur.
 
-un simple projet qui permet de réccupérer les données du serveur, ou les insérer.
+Dans ce projet on utilise le framework Angular pour le coté client, ainsi que la bébliothèque Boostrap
 
-Dans ce projet on utilise le framwork AngularJs pour le coté client, ainsi que la bébliothèque Boostrap
+pour actualiser le contenu de la page, valider les inputs et l'envoyer au coté serveur ajouter ou supprimer un nouveau user ou post, sans avoir a actualiser la page.
 
-pour actualiser le contenu de la page, valider les inputs et l'envoyer au coté serveur jouter ou supprimer un nouveau user ou post, sans avoir a actualiser la page.
+Pour le coté serveur on utilise NestJs, on manipule les données en utilisant les requettes HTTP , ces données sont générész par l'api Faker.
 
-Pour le coté serveur on utilise NestJs, on manipule les données en utilisant les requettes HTTP , ces données sont générés par l'api Faker.
-
-
-Démonstration
+## Démonstration
 - Liste des users: 
 
 https://user-images.githubusercontent.com/36522492/50552535-be11aa80-0c95-11e9-8ffb-fa6c24aa77a6.PNG
@@ -27,3 +25,7 @@ https://user-images.githubusercontent.com/36522492/50552538-c538b880-0c95-11e9-8
 - List des posts:
 
 https://user-images.githubusercontent.com/36522492/50553422-b0b0ec00-0ca6-11e9-8740-0e1e91ac9218.png
+
+
+----
+** Dounia Ait Hammi
