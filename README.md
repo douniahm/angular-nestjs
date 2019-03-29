@@ -22,8 +22,9 @@ Pour le coté serveur on utilise NestJs, on manipule les données en utilisant l
 
 - L'user ajouté
 
-https://user-images.githubusercontent.com/36522492/50552538-c538b880-0c95-11e9-84fb-e22453007211.PNG
+![11](https://user-images.githubusercontent.com/36522492/55203646-70410b80-51cc-11e9-94b1-7ef5132fd838.PNG)
 
+-----
 - List des posts:
 
 ![useradded](https://user-images.githubusercontent.com/36522492/50552538-c538b880-0c95-11e9-84fb-e22453007211.PNG)
